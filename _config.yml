@@ -1,2 +1,8 @@
 #Build settings
 theme: jekyll-theme-leap-day
+
+title: [Open Research Working Group Aberdeen]
+description: [A group of researchers interested in encouraging opening research practices within Aberdeen, UK]
+
+show_downloads: ["false"]
+
