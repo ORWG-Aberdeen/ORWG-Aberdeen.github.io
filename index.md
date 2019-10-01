@@ -13,7 +13,7 @@ We are a group of like-minded researchers based in Aberdeen, UK, who believe in 
 
 ## What do we do?
 
-We are a newly formed group and presently we're contacting the local community to determine the needs of researchers in the area of open research. 
+We are a newly formed group and presently we're contacting the local community to determine the needs of researchers in the context of open research. 
 
 You can see a list of all members and their contact details [HERE](./members.md)
 
