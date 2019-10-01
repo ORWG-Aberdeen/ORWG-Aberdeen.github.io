@@ -27,4 +27,8 @@ Links to helpful resources for open research practices can be found [HERE](./res
 
 Details of our next meeting can be found here soon!
 
+## Links
 
+[ORWG Github page](https://github.com/ORWG-Aberdeen)
+
+ORWG Twitter page (coming soon!)
