@@ -10,12 +10,18 @@ Welcome to the Open Research Working Group Aberdeen!
 
 We are a group of like-minded researchers based in Aberdeen, UK, who believe in advocating open research working practices. 
 
+We are an affiliate of the [UK Reproducibility Network](https://twitter.com/ukrepro).
+
+You can see a list of all members and their contact details [HERE](./members.md)
+
 
 ## What do we do?
 
 We are a newly formed group and presently we're contacting the local community to determine the needs of researchers in the context of open research. 
-
-You can see a list of all members and their contact details [HERE](./members.md)
+Our goals are to:
+* Raise **awareness** about the benefits of open research practices.
+* Organise **training** in open research practices.
+* Ensure our institutes have well-informed **strategies** for open research. 
 
 
 ## Resources
@@ -26,6 +32,11 @@ Links to helpful resources for open research practices can be found [HERE](./res
 ## Events
 
 Details of our next meeting can be found here soon!
+
+## How Can I Join?
+
+Everyone is welcome and no previous experience is necessary. To join our mailing list please contact [Jess Butler](mailto:jessicabutler@abdn.ac.uk)
+
 
 ## Links
 
