@@ -8,4 +8,6 @@ layout: default
 
 [Dr Sophie Shaw](https://www.abdn.ac.uk/people/s.shaw) - Bioinformatician, Centre for Genome Enabled Biology and Medicine
 
+[Dr Dimitra Blana](https://www.abdn.ac.uk/people/dimitra.blana) - Lecturer, Aberdeen Centre for Health Data Science
+
 [Return to the Home Page](./) 
