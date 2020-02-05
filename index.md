@@ -42,4 +42,4 @@ Everyone is welcome and no previous experience is necessary. To join our mailing
 
 [ORWG Github page](https://github.com/ORWG-Aberdeen)
 
-ORWG Twitter page (coming soon!)
+[ORWG Twitter page](https://twitter.com/AberdeenOrwg)
