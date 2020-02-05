@@ -31,7 +31,7 @@ Links to helpful resources for open research practices can be found [HERE](./res
 
 ## Events
 
-Details of our next meeting can be found here soon!
+Our next meeting is on **Thursday February 6th 2020, 12:00 - 13:00 at Polwarth Building Room 1:162**. The focus of the meeting will be planning an Open Research launch event on 9th March.
 
 ## How Can I Join?
 
