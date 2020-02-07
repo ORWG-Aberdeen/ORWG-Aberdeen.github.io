@@ -31,7 +31,8 @@ Links to helpful resources for open research practices can be found [HERE](./res
 
 ## Events
 
-Our next meeting is on **Thursday February 6th 2020, 12:00 - 13:00 at Polwarth Building Room 1:162**. The focus of the meeting will be planning an Open Research launch event on 9th March.
+The **Open Scholarship Launch Event** is currently being planned. Details of speakers and dates will be available soon! 
+
 
 ## How Can I Join?
 
