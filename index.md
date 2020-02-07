@@ -29,9 +29,12 @@ Our goals are to:
 Links to helpful resources for open research practices can be found [HERE](./resources.md).
 
 
-## Events
+## Events and Meetings
 
-The **Open Scholarship Launch Event** is currently being planned. Details of speakers and dates will be available soon! 
+* The **Open Scholarship Launch Event** is currently being planned. Details of speakers and dates will be available soon! 
+
+* **Every Wednesday** 12:00-13:00. Drop-in session for help with working reproducibly in R at Centre for Health Data Science, Polwarth Building 1:162. 
+
 
 
 ## How Can I Join?
